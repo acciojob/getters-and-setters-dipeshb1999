@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+#output {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 20px;
+}
